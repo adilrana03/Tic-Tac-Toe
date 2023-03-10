@@ -1,0 +1,25 @@
+.board-row{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.board-container {
+  width: 40%;
+  text-align: center;
+  margin: 100px auto;
+  border-radius: 15px;
+  background-color:honeydew;
+
+}
+.board-container  div{
+  border-radius: 2px;
+}
+h1{
+  color: rgba(113, 32, 2, 0.682);
+  font-family:cursive;
+  background-color: rgb(129, 161, 162);
+  padding: 10px 10px 0 10px;
+}
+body{
+  background-color: rgba(202, 176, 252, 0.218);
+}
